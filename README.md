@@ -1,1 +1,1 @@
-# retinolal_regand
+# retinolal_ligand
